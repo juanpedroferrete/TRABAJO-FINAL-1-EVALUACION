@@ -29,3 +29,5 @@ caso 13: en este caso usaremos flex-wrap: wrap; y align-content: flex-start;
 caso 14: en este caso usaremos display:flex; height: 400px; flex-wrap: wrap; y align-content: flex-end,
 
 caso 15: para este caso tendremos que poner style="flex-grow:(un numero que queramos)"
+
+caso  16: para este caso utilizmos flex-wrap:nowrap;
